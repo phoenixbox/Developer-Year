@@ -32,6 +32,9 @@ gem 'better_errors', '~> 2.0.0'
 gem 'binding_of_caller', '~> 0.7.2'
 gem 'omniauth-github', '~> 1.1.2'
 gem 'devise', '~> 3.4.1'
+gem 'figaro', :git => 'https://github.com/laserlemon/figaro.git', :tag => '0-stable'
+gem 'pry', '~> 0.10.1'
+gem 'github_api', '~> 0.12.2'
 
 
 # Use ActiveModel has_secure_password
